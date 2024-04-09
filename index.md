@@ -1,4 +1,14 @@
 # Salman Navroz's Github Page
+
+## Table of Contents
+
+[Background](https://salnav.github.io/Salman-Navroz-Github-Page/#background)
+
+[Fun Things](https://salnav.github.io/Salman-Navroz-Github-Page/#fun-things)
+
+[Plans](https://salnav.github.io/Salman-Navroz-Github-Page/#plans)
+
+
 ## Background
 My name is **Salman Navroz** and I am based in **San Diego, California**. I currently attend **UC San Dieg**o. I like to program in my free time and work on innovative projects.
 
@@ -8,11 +18,12 @@ My name is **Salman Navroz** and I am based in **San Diego, California**. I curr
 ## Fun Things
 
 Here is an infinite loop. Always remember the break statement unless you want to rip your hair out.
-'''
-    while (true) {
-        System.out.println("I am infinite");
-    }
-'''
+```
+while (true) {
+     System.out.println("I am infinite");
+}
+```
+
 
 ![Meme about loops](images/loop.jpeg)
 
@@ -21,6 +32,8 @@ Here is a fun project I did a few years ago: [Gravity Ball](https://github.com/s
 My favorite programming is... [(top secret info)](language.md)
 
 My favorite book is _The Pragmatic Programmer_
+
+
 ![Meme about loops](images/pragmatic.jpeg)
 
 
@@ -32,12 +45,12 @@ My favorite book is _The Pragmatic Programmer_
 3. Work on the next big thing!
 
 ### Short Term Plans
-- [] Contribute to open source projects.
-- [] Finish all the projects I have started.
+- [ ] Contribute to open source projects.
+- [ ] Finish all the projects I have started.
 - [x] Start learning deep learning.
 
 ### Day to Day Plans
 * Get good grades this quarter.
-* Exapnd software engineering knowledge.
+* Expand software engineering knowledge.
 * Progress on deep learning models.
 
